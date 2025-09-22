@@ -1,0 +1,13 @@
+Multi-touch attribution results (fractional by clicks) saved to visualizations/attribution_summary.csv
+Recommendations (conservative reallocation) saved to visualizations/attribution_recommendations.csv
+
+Top channels by attributed ROI (baseline):
+- Facebook: attributed ROI = 5.03, attributed revenue = 338588877.94
+- Website: attributed ROI = 5.01, attributed revenue = 349614199.13
+- Google Ads: attributed ROI = 5.01, attributed revenue = 349922788.70
+- YouTube: attributed ROI = 5.00, attributed revenue = 347855419.92
+- Email: attributed ROI = 5.00, attributed revenue = 353847088.75
+
+Recommendation rationale:
+- Increase budget toward channels with above-average attributed ROI, but limit any single-channel change to +/-30% of its current spend in this first reallocation step.
+- Run 4-week A/B tests after reallocating to validate impact on conversions and ROI.

@@ -1,0 +1,5 @@
+Top campaign type by average ROI: Influencer (avg ROI = 5.01).
+Best channel by ROI: Facebook (avg ROI = 5.02).
+Little or no monotonic relationship between Acquisition Cost and Conversion Rate (Spearman rho = 0.00).
+Channel with largest ROI increase over time: Google Ads (change = 0.07).
+Channel with largest ROI decrease over time: Facebook (change = -0.05).

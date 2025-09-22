@@ -1,0 +1,7 @@
+KMeans (MiniBatch) segmentation k=6
+Cluster 0: n=35258 | LowEng/HighConv/MediumROI | action: Balanced segment — targeted experiments. | means: eng=2.67, conv=0.1130, roi=5.83
+Cluster 1: n=31557 | HighEng/LowConv/MediumROI | action: Balanced segment — targeted experiments. | means: eng=8.23, conv=0.0434, roi=5.90
+Cluster 2: n=37664 | MediumEng/HighConv/LowROI | action: Balanced segment — targeted experiments. | means: eng=6.31, conv=0.1159, roi=3.27
+Cluster 3: n=29953 | LowEng/LowConv/HighROI | action: High ROI, low engagement — nurture with email/remarketing & personalized offers. | means: eng=2.84, conv=0.0420, roi=6.04
+Cluster 4: n=30219 | HighEng/HighConv/HighROI | action: High ROI & high engagement — scale with lookalike audiences and increase budget cautiously. | means: eng=7.90, conv=0.1123, roi=6.48
+Cluster 5: n=35349 | MediumEng/LowConv/LowROI | action: Balanced segment — targeted experiments. | means: eng=5.20, conv=0.0465, roi=3.08
